@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "tieu de",
+      "combain": "hi",
+      "thumbnail": "hi",
+      "comment": [
+        {
+          "id": 1,
+          "content": "hi",
+          "creat_at": "hi",
+          "creat_by": "hi"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "tieu de",
+      "combain": "hi",
+      "thumbnail": "hi",
+      "comment": [
+        {
+          "id": 2,
+          "content": "hi",
+          "creat_at": "hi",
+          "creat_by": "hi"
+        }
+      ]
+
+    }
+  ]
+}
